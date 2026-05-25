@@ -4,7 +4,9 @@ I'm a passionate developer and IT enthusiast from the Philippines who enjoys bui
 
 🚀 Currently Working On
 
-I'm currently working as an Intern at MediaOne PH, where I contribute to real-world projects, collaborate with teams, and gain hands-on industry experience in development and digital solutions.
+I'm currently working on a legal consultation and lawyer-client matching platform focused on improving accessibility and communication between lawyers and clients. Through this project, I collaborate with teams, solve real-world development challenges, and gain hands-on experience in building practical and user-centered digital solutions.
+
+---------------
 
 🛠️ Tools & Technologies
 Frontend: HTML, CSS, JavaScript, Bootstrap, React Native
